@@ -1,0 +1,13 @@
+.messageUser{
+    padding:10px;
+    background-color: aquamarine;
+    margin:10px;
+    text-align: right;
+}
+.messageGuest{
+    padding:10px;
+    background-color:gray;
+    width:fit-content;
+    margin:10px;
+    text-align: left;
+}
